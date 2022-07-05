@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    background-color: rgb(161, 150, 150);
+}
+
+.hero {
+    display: flex;
+}
+
+.cow .hadith {
+    width: 50%;
+}
+
+.hadith {
+    padding: 40px;
+}
+
+span {
+    color: #ec6a2d;
+}
+
+.hadith h1 {
+    font-size: 30px;
+}
+
+.hadith p {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    padding: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.cow {
+    margin-top: 100px;
+}
+
+.makkah img {
+    height: 500px;
+    width: 700px;
+}
+
+.makka-text {
+    width: 50%;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile h1 {
+    color: #ec6a2d;
+}
+
+footer {
+    box-shadow: 0px 0 10px rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    background-color: white;
+}
+
+.foot {
+    display: flex;
+    align-items: center;
+    margin-left: 40%;
+    padding: 20px;
+}
+
+footer img {
+    height: 100px;
+    width: 150px;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
